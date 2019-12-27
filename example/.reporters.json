@@ -1,0 +1,6 @@
+{
+  "spec": true,
+  "xunit": {
+    "output": "report.xml"
+  }
+}
