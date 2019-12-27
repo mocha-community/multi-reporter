@@ -1,6 +1,6 @@
 {
   "name": "@mochajs/multi-reporter",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Multiple reporter for Mocha",
   "homepage": "https://github.com/mocha-community/multi-reporter",
   "bugs": {
