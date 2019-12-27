@@ -1,0 +1,4 @@
+{
+  "spec": "test/**/*.spec.js",
+  "reporter": "@mochajs/multi-reporter"
+}
