@@ -1,10 +1,17 @@
 {
   "name": "@mochajs/multi-reporter",
   "version": "1.0.0",
+  "author": {
+    "name": "Munieru",
+    "url": "https://github.com/munierujp"
+  },
   "description": "Multiple reporter for Mocha",
   "homepage": "https://github.com/mocha-community/multi-reporter",
   "bugs": {
     "url": "https://github.com/mocha-community/multi-reporter/issues"
+  },
+  "engines": {
+    "node": ">=6.0.0"
   },
   "repository": {
     "type": "git",
@@ -24,6 +31,11 @@
     "mocha": "6.x"
   },
   "license": "MIT",
+  "keywords": [
+    "mocha",
+    "reporter"
+  ],
+  "dependencies": {},
   "devDependencies": {
     "eslint": "^6.7.2",
     "eslint-config-standard": "^14.1.0",
