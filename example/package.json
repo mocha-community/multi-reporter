@@ -5,6 +5,6 @@
   },
   "devDependencies": {
     "@mochajs/multi-reporter": "1.0.1",
-    "mocha": "6.2.2"
+    "mocha": "6.2.3"
   }
 }
