@@ -4,7 +4,7 @@
     "test": "mocha"
   },
   "devDependencies": {
-    "@mochajs/multi-reporter": "1.0.1",
+    "@mochajs/multi-reporter": "1.1.0",
     "mocha": "8.1.3"
   }
 }
