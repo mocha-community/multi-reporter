@@ -29,7 +29,7 @@
   ],
   "main": "src/index.js",
   "peerDependencies": {
-    "mocha": "6.x || 8.x"
+    "mocha": "6.x || 7.x || 8.x"
   },
   "license": "MIT",
   "keywords": [
